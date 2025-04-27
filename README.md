@@ -76,19 +76,19 @@ Save settings per project/scene!
 🎮 Usage Scenarios
 Case 1: Mobile Menu Optimization
 
-python
+ ```
 1. Exclude all Buttons ← Keep interactivity
 2. Disable raycasts on Background images
 3. Process 150+ UI elements in 200ms
 Case 2: HUD Performance Boost
-
-python
+ ```
+ ```
 1. Target only Text components
 2. Preserve TMP counters
 3. Achieve 62% draw call reduction
 🛠️ Configuration Deep Dive
 Core Settings Structure:
-
+ ```
 csharp
 public class UIOptimizerProfile : ScriptableObject {
     [SerializeField] ComponentSettings _textSettings;  // Legacy & TMP
