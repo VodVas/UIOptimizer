@@ -73,8 +73,8 @@ csharp
                 menuName = "UIOptimizer/Profile")]
 Save settings per project/scene!
 
-**🎮 Usage Scenarios**
-   Case 1:
+**🎮 Usage Scenarios**  
+Case 1:
 Mobile Menu Optimization
 
  ```
