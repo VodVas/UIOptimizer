@@ -74,14 +74,16 @@ csharp
 Save settings per project/scene!
 
 🎮 Usage Scenarios
-Case 1: Mobile Menu Optimization
+Case 1: 
+Mobile Menu Optimization
 
  ```
 1. Exclude all Buttons ← Keep interactivity
 2. Disable raycasts on Background images
 3. Process 150+ UI elements in 200ms
-Case 2: HUD Performance Boost
  ```
+Case 2:
+HUD Performance Boost
  ```
 1. Target only Text components
 2. Preserve TMP counters
