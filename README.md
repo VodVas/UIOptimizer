@@ -12,11 +12,12 @@
 **🎯 Surgical Precision Controls**  
 ```csharp
    [Serializable]
-   public class ComponentSettings {
+   public class ComponentSettings
+{
        [SerializeField] private bool _process = true;
        [SerializeField] private bool _disableMaskable = true;
        [SerializeField] private bool _disableRaycast = true;
-   }
+}
 ```
 Per-component settings with one-click presets!
 
@@ -87,15 +88,17 @@ HUD Performance Boost
 1. Target only Text components
 2. Preserve TMP counters
 3. Achieve 62% draw call reduction
-**🛠️ Configuration Deep Dive
-Core Settings Structure:
  ```
-csharp
-public class UIOptimizerProfile : ScriptableObject {
+**🛠️ Configuration Deep Dive**
+Core Settings Structure:
+ ```csharp
+public class UIOptimizerProfile : ScriptableObject
+{
     [SerializeField] ComponentSettings _textSettings;  // Legacy & TMP
     [SerializeField] bool _excludeButtons = true;      // Auto-skip UI
     [SerializeField] List<GameObject> _manualExclusions; // Scene refs
 }
+ ```
 Pro Tip: Use multiple profiles for:
 
 **👷♂️ Development (safer settings)**
