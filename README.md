@@ -74,7 +74,7 @@ csharp
 Save settings per project/scene!
 
 **🎮 Usage Scenarios**
-Case 1: 
+Case 1:   
 Mobile Menu Optimization
 
  ```
