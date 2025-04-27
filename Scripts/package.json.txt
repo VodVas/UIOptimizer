@@ -1,0 +1,12 @@
+{
+  "name": "com.vodvas.uioptimizer",
+  "version": "1.0.0",
+  "displayName": "UI Optimizer Pro",
+  "description": "Optimization tool for Unity UI",
+  "unity": "2020.3",
+  "dependencies": {
+    "com.unity.textmeshpro": "3.0.6"
+  },
+  "author": "VodVas",
+  "type": "tool"
+}
