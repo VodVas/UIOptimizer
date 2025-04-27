@@ -97,10 +97,10 @@ _optimizers.Add(new NewOptimizer());                      // 2. Register
 // 3. Enjoy optimized UI! 🎉
 ```
 Why it matters?
-"Good architecture makes the system easy to change" (R.C. Martin)
-0 circular dependencies
-100% testable components
-Hot-swappable architecture layers
+*"Good architecture makes the system easy to change" (R.C. Martin)*  
+*0 circular dependencies*  
+*100% testable components*  
+*Hot-swappable architecture layers*  
 **🎮 Usage Scenarios**  
 Case 1:
 Mobile Menu Optimization
