@@ -1,0 +1,6 @@
+{
+  "name": "VodVas.UIOptimizer.Editor",
+  "references": ["VodVas.UIOptimizer.Runtime"],
+  "includePlatforms": ["Editor"],
+  "autoReferenced": false
+}
