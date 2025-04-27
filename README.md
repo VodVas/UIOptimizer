@@ -20,7 +20,7 @@
 ```
 Per-component settings with one-click presets!
 
-**🛡️ Smart Exclusion System
+**🛡️ Smart Exclusion System**
 
 Auto-exclude interactive elements (Buttons, Sliders)
 
@@ -30,7 +30,7 @@ Scene-wide filters
 
 Type-based blacklisting
 
-**📊 Real-Time Analytics
+**📊 Real-Time Analytics**
  ```
 plaintext
 UI Optimizer Results:
@@ -42,7 +42,7 @@ Images: 67 disabled raycasts
 Total Saved: 127 operations
 Time: 156ms
  ```
-**⚡ Editor-First Design
+**⚡ Editor-First Design**
 
 Full Undo/Redo support
 
@@ -52,7 +52,7 @@ Profile system (Create/Save/Load)
 
 Batch processing for entire scenes
 
-**🚀 Quick Start
+**🚀 Quick Start**
 Installation
 
 bash
@@ -72,7 +72,7 @@ csharp
                 menuName = "UIOptimizer/Profile")]
 Save settings per project/scene!
 
-**🎮 Usage Scenarios
+**🎮 Usage Scenarios**
 Case 1: 
 Mobile Menu Optimization
 
