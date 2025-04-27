@@ -96,7 +96,7 @@ public class NewOptimizer : IUIComponentOptimizer { ... }  // 1. Create
 _optimizers.Add(new NewOptimizer());                      // 2. Register  
 // 3. Enjoy optimized UI! 🎉
 ```
-Why it matters?
+Why it matters?  
 *"Good architecture makes the system easy to change" (R.C. Martin)*  
 *0 circular dependencies*  
 *100% testable components*  
