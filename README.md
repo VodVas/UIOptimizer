@@ -59,7 +59,7 @@ Add to your Unity project:
 2. Click **+ → Add package from Git URL**
 3. Paste:
    ``` https://github.com/VodVas/UIOptimizer.git ```
-4. Press **Add**
+4. Press **Add**  
 First Optimization  
 
 Tools → VodVas → UI Optimizer Pro  
