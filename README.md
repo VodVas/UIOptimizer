@@ -101,6 +101,7 @@ Why it matters?
 *0 circular dependencies*  
 *100% testable components*  
 *Hot-swappable architecture layers*  
+  
 **🎮 Usage Scenarios**  
 Case 1:
 Mobile Menu Optimization
