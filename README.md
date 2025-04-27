@@ -60,9 +60,8 @@ Installation
 First Optimization  
 
 Tools → VodVas → UI Optimizer Pro  
-Editor Window Demo  
 
-Create Profile
+Create Profile  
 
 csharp
 [CreateAssetMenu(fileName = "UIOptimizerProfile", 
