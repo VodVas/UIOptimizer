@@ -32,7 +32,7 @@ Scene-wide filters
 Type-based blacklisting
 
 📊 Real-Time Analytics
-
+ ```
 plaintext
 UI Optimizer Results:
 ------------------------------
@@ -42,6 +42,7 @@ Images: 67 disabled raycasts
 ------------------------------
 Total Saved: 127 operations
 Time: 156ms
+ ```
 ⚡ Editor-First Design
 
 Full Undo/Redo support
