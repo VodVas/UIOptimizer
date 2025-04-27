@@ -71,8 +71,36 @@ Create Profile
 csharp
 [CreateAssetMenu(fileName = "UIOptimizerProfile", 
                 menuName = "UIOptimizer/Profile")]
-Save settings per project/scene!
+Save settings per project/scene!  
+## 🏗️ Clean Architecture & Patterns  
 
+**SOLID & MVP Principles**  
+
+*Engineered with best practices:*  
+- **SOLID-compliant** architecture: Each optimizer (`Text`, `Image`, etc.) has single responsibility  
+- **MVP pattern** for perfect separation:  
+  ```mermaid
+  graph TD
+    V[View] -->|Events| P(Presenter)
+    P -->|Commands| M(Model)
+    M -->|Data| P
+    P -->|Updates| V
+Effortless extensibility via IUIComponentOptimizer interface
+
+Pro-grade techniques: Dependency Injection, Encapsulation, Zero code duplication
+
+Extend in 3 steps:
+
+```
+public class NewOptimizer : IUIComponentOptimizer { ... }  // 1. Create
+_optimizers.Add(new NewOptimizer());                      // 2. Register  
+// 3. Enjoy optimized UI! 🎉
+```
+Why it matters?
+"Good architecture makes the system easy to change" (R.C. Martin)
+0 circular dependencies
+100% testable components
+Hot-swappable architecture layers
 **🎮 Usage Scenarios**  
 Case 1:
 Mobile Menu Optimization
