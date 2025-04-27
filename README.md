@@ -60,12 +60,10 @@ Add to your Unity project:
 3. Paste:
    ``` https://github.com/VodVas/UIOptimizer.git ```
 4. Press **Add**  
+  
 First Optimization  
-
 Tools → VodVas → UI Optimizer Pro  
-
 Create Profile  
-
 ```
 [CreateAssetMenu(fileName = "UIOptimizerProfile", 
                 menuName = "UIOptimizer/Profile")]
