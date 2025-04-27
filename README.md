@@ -54,9 +54,12 @@ Profile system (Create/Save/Load)
 Batch processing for entire scenes
 
 **🚀 Quick Start**
-Installation  
-[![UPM](https://img.shields.io/badge/UPM-ready-success)](https://github.com/VodVas/UIOptimizer.git)
-  
+Add to your Unity project:  
+1. Open **Window → Package Manager**
+2. Click **+ → Add package from Git URL**
+3. Paste:
+   ``` https://github.com/VodVas/UIOptimizer.git ```
+4. Press **Add**
 First Optimization  
 
 Tools → VodVas → UI Optimizer Pro  
