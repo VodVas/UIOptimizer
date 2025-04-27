@@ -63,10 +63,12 @@ Tools → VodVas → UI Optimizer Pro
 
 Create Profile  
 
-csharp
+```
 [CreateAssetMenu(fileName = "UIOptimizerProfile", 
                 menuName = "UIOptimizer/Profile")]
+```
 Save settings per project/scene!  
+  
 ## 🏗️ Clean Architecture & Patterns  
 
 **SOLID & MVP Principles**  
