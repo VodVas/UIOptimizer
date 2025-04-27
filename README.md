@@ -2,16 +2,14 @@
 
 **Automate UI optimization like a pro** - Save 90% time on performance optimization with smart component processing and intelligent exclusion rules!
 
-## 🔥 Top 5 Reasons to Fall in Love
-
-1. **💼 All-in-One Optimization**  
+**💼 All-in-One Optimization**  
    Automatically processes:
    - 🖼️ Images/Raw Images
    - 📝 Legacy Text & TMP Text
    - 🖌️ Maskable components
    - 🎯 Raycast targets
 
-2. **🎯 Surgical Precision Controls**  
+**🎯 Surgical Precision Controls**  
    ```csharp
    [Serializable]
    public class ComponentSettings {
@@ -21,7 +19,7 @@
    }
 Per-component settings with one-click presets!
 
-🛡️ Smart Exclusion System
+**🛡️ Smart Exclusion System
 
 Auto-exclude interactive elements (Buttons, Sliders)
 
@@ -31,7 +29,7 @@ Scene-wide filters
 
 Type-based blacklisting
 
-📊 Real-Time Analytics
+**📊 Real-Time Analytics
  ```
 plaintext
 UI Optimizer Results:
@@ -43,7 +41,7 @@ Images: 67 disabled raycasts
 Total Saved: 127 operations
 Time: 156ms
  ```
-⚡ Editor-First Design
+**⚡ Editor-First Design
 
 Full Undo/Redo support
 
@@ -53,7 +51,7 @@ Profile system (Create/Save/Load)
 
 Batch processing for entire scenes
 
-🚀 Quick Start
+**🚀 Quick Start
 Installation
 
 bash
@@ -73,7 +71,7 @@ csharp
                 menuName = "UIOptimizer/Profile")]
 Save settings per project/scene!
 
-🎮 Usage Scenarios
+**🎮 Usage Scenarios
 Case 1: 
 Mobile Menu Optimization
 
@@ -88,7 +86,7 @@ HUD Performance Boost
 1. Target only Text components
 2. Preserve TMP counters
 3. Achieve 62% draw call reduction
-🛠️ Configuration Deep Dive
+**🛠️ Configuration Deep Dive
 Core Settings Structure:
  ```
 csharp
@@ -99,16 +97,15 @@ public class UIOptimizerProfile : ScriptableObject {
 }
 Pro Tip: Use multiple profiles for:
 
-👷♂️ Development (safer settings)
+**👷♂️ Development (safer settings)
 
-🚀 Production (aggressive optimization)
+**🚀 Production (aggressive optimization)
 
-📱 Mobile (extra raycast disabling)
+**📱 Mobile (extra raycast disabling)
 
-📜 License
+**📜 License
 MIT License - Free for commercial use. Clone, modify, distribute!
 
-xml
 Copyright 2023 VodVas
 
 Permission includes rights to use, copy, modify, merge with ANY Unity project, 
