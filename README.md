@@ -101,11 +101,11 @@ public class UIOptimizerProfile : ScriptableObject
  ```
 Pro Tip: Use multiple profiles for:
 
-**👷♂️ Development (safer settings)**
+*👷♂️ Development (safer settings)*
 
-**🚀 Production (aggressive optimization)**
+*🚀 Production (aggressive optimization)*
 
-**📱 Mobile (extra raycast disabling)**
+*📱 Mobile (extra raycast disabling)*
 
 **📜 License**
 MIT License - Free for commercial use. Clone, modify, distribute!
