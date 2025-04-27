@@ -98,19 +98,18 @@ public class UIOptimizerProfile : ScriptableObject {
 }
 Pro Tip: Use multiple profiles for:
 
-**👷♂️ Development (safer settings)
+**👷♂️ Development (safer settings)**
 
-**🚀 Production (aggressive optimization)
+**🚀 Production (aggressive optimization)**
 
-**📱 Mobile (extra raycast disabling)
+**📱 Mobile (extra raycast disabling)**
 
-**📜 License
+**📜 License**
 MIT License - Free for commercial use. Clone, modify, distribute!
 
 Copyright 2023 VodVas
 
 Permission includes rights to use, copy, modify, merge with ANY Unity project, 
 including commercial titles. Attribution appreciated but not required.
-☕ Buy Me a Coffee | 📘 Documentation | 🐛 Issue Tracker
 
 Transform your UI workflow today - What took hours now takes seconds! 🕒
