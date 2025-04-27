@@ -10,13 +10,14 @@
    - 🎯 Raycast targets
 
 **🎯 Surgical Precision Controls**  
-   ```csharp
+```csharp
    [Serializable]
    public class ComponentSettings {
        [SerializeField] private bool _process = true;
        [SerializeField] private bool _disableMaskable = true;
        [SerializeField] private bool _disableRaycast = true;
    }
+```
 Per-component settings with one-click presets!
 
 **🛡️ Smart Exclusion System
